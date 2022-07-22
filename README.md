@@ -1,2 +1,3 @@
+gif preview of the application
 
-<video src='https://i.imgur.com/7uQ6UVh.mp4' width=180/>
+<img src='https://i.imgur.com/xKDe7PV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
